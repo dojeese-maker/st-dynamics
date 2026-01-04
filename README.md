@@ -74,7 +74,7 @@ pip install squidpy>=1.2.0
 
 ```bash
 # Clone repository
-git clone https://github.com/your-repo/st-dynamics.git
+git clone https://github.com/dojeese-maker/st-dynamics.git
 cd st-dynamics
 
 # Install in development mode
@@ -425,10 +425,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/st-dynamics/issues)
-- **Documentation**: [Wiki](https://github.com/your-repo/st-dynamics/wiki)
-- **Email**: your.email@institution.edu
+- **Issues**: [GitHub Issues](https://github.com/dojeese-maker/st-dynamics/issuesh
+- **Documentation**: [Wiki](https://github.com/dojeese-maker/st-dynamics/wikih
+- **Email**: 
 
 ---
+
 
 **ST-Dynamics** - Bridging spatial organization and temporal dynamics in transcriptomics data analysis.
